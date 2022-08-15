@@ -5,14 +5,13 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./main.js"
   },
   "keywords": ["markdown", "links", "status http"],
-  "homepage": "",
+  "homepage": "https://github.com/Caulicons/lib---Verficando-status-de-links-em-textos-Markdown/tree/main",
   "author": "Caulicons https://github.com/Caulicons",
   "license": "ISC",
-  "bugs": "",
+  "bugs": "https://github.com/Caulicons/lib---Verficando-status-de-links-em-textos-Markdown/tree/main",
   "preferGlobal": true,
   "bin": {
     "links-in-markdown": "./main.js"
