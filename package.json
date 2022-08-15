@@ -1,0 +1,27 @@
+{
+  "name": "links-in-markdown",
+  "version": "1.0.0",
+  "description": "make sure the links in the markdown text are working.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./main.js"
+  },
+  "keywords": ["markdown", "links", "status http"],
+  "homepage": "",
+  "author": "Caulicons https://github.com/Caulicons",
+  "license": "ISC",
+  "bugs": "",
+  "preferGlobal": true,
+  "bin": {
+    "links-in-markdown": "./main.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
