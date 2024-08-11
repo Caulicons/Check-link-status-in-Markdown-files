@@ -1,13 +1,17 @@
 {
   "name": "links-in-markdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make sure the links in the markdown text are working.",
   "main": "main.js",
   "type": "module",
   "scripts": {
     "start": "node ./main.js"
   },
-  "keywords": ["markdown", "links", "status http"],
+  "keywords": [
+    "markdown",
+    "links",
+    "status http"
+  ],
   "homepage": "https://github.com/Caulicons/lib---Verficando-status-de-links-em-textos-Markdown/tree/main",
   "author": "Caulicons https://github.com/Caulicons",
   "license": "ISC",
